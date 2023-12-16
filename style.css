@@ -1,0 +1,58 @@
+ * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: sans-serif;
+        /* height: 50%; */
+}
+
+.header-1 {
+    display: flex;
+    align-items: center;
+    height: 80px;
+
+    .icons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-left: 1100px;
+        font-size: 400;
+    }
+
+    .navber-brand-1{
+        text-decoration: none;
+        color: #fff;
+    } 
+
+    .navbar-brand{
+        color: #fff;
+    }
+ .icons-1{
+    font-size: xx-large;
+    
+ }
+
+ .icons-2{
+    font-size: xx-large;
+   
+ }
+.icons-3{
+    font-size: xx-large;
+   
+}
+
+.icons-4{
+    font-size: xx-large;
+   
+}
+
+.icons-5{
+    font-size: xx-large;
+
+}
+
+.col{
+    text-align: justify;
+    background-color: aqua;
+    display: flexbox;
+}
